@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLibrary.Api", "VideoLibrary.Api\VideoLibrary.Api.csproj", "{F0FE6706-D885-47E9-B477-4AD2853FEC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FE6706-D885-47E9-B477-4AD2853FEC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FE6706-D885-47E9-B477-4AD2853FEC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FE6706-D885-47E9-B477-4AD2853FEC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FE6706-D885-47E9-B477-4AD2853FEC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
