@@ -16,6 +16,6 @@ jobs:
       - name: Check dotnet CLI
         run: dotnet build
       - name: List Files in Directory
-        run: ls VieoLibrary.Api/ -R
+        run: ls VideoLibrary.Api/ -R
       - name: Check NPM
         run: npm -v
