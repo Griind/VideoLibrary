@@ -14,6 +14,8 @@ jobs:
       - name: List Files in Dierctory
         run: ls
       - name: Check dotnet CLI
-        run: dotnet --info
+        run: dotnet build
+      - name: List Files in Directory
+        run: ls VieoLibrary.Api/ -R
       - name: Check NPM
-        run: npm
+        run: npm -v
