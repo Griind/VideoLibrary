@@ -38,5 +38,16 @@ namespace VideoLibrary.Api.Controllers
         {
             throw  new NotImplementedException();
         }
+        // [HttpPut]
+        // public IActionResult Update([FromBody] Video video)
+        // {
+        //     throw  new NotImplementedException();
+        // }
+        //
+        // [HttpDelete]
+        // public IActionResult Delete(int id)
+        // {
+        //     throw  new NotImplementedException();
+        // }
     }
 }
